@@ -11,8 +11,6 @@
     "scripts": {
         "contract": "yarn workspace contract",
         "client": "yarn workspace client",
-        "build": "babel src -d lib",
         "test": "yarn contract test"
-        
     }
 }
